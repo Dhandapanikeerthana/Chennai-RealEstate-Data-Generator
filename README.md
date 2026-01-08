@@ -34,14 +34,15 @@ Note ⚠️: The full dataset is large (50,000 entries) and cannot be displayed 
 ## How to Use
 
 1. Clone the repository:
-```bash
-git clone https://github.com/Keer/MyProject.git
+```
+git clone https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator.git
 
 ```
+
 2. Open the project in PyCharm or any Python IDE.
 
 3. Run the Python script (main.py) to generate the dataset.
-```bash
+```
 python main.py
 ```
 4. The output will be displayed in the console, and you can save it as a CSV file.
