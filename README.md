@@ -18,7 +18,8 @@ Useful for **data analysis, testing ML models, and educational purposes**.
 
 
 ## Output
-![Alt](<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4f9e5db1-b1b9-44d4-bfd1-cad3099483b2" />
+![Output 1](output/1.png)
+
 <img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/4e5bb871-ff43-47b7-ab18-fadcf19f3b1f" />
 
 <img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/d712a16b-4e3f-4ad5-b2e3-349245051893" />
