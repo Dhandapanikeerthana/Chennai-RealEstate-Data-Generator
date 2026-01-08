@@ -8,24 +8,26 @@ It helps practice **data analysis 📊, machine learning 🤖, and dataset handl
 
 Generates **property listings** with realistic attributes like:
 
-1. Location  
-2. Price  
-3. Size  
-4. Type of property  
+1. Location
+2. Price
+3. Size
+4. Type of property
 
 Useful for **data analysis, testing ML models, and educational purposes**.
-
 
 
 ## Output
 ![Output 1](output/1.png)
 
-<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/4e5bb871-ff43-47b7-ab18-fadcf19f3b1f" />
+![Output 2](output/2.png)
 
-<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/d712a16b-4e3f-4ad5-b2e3-349245051893" />
-<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/24cf7d83-1008-4a0b-b7a9-30dbf1307433" />
-<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/d663c36c-52e8-4452-a4bf-827790850547" />
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/aebe2255-ee68-4e7f-9ae5-45ee62434018" />
+
+![Output 3](output/3.png)
+![Output 4](output/4.png)
+![Output 5](output/5.png)
+![Output 6](output/6.png)
+
+
 
 
 Note ⚠️: The full dataset is large (50,000 entries) and cannot be displayed in the browser.  
@@ -34,21 +36,14 @@ Note ⚠️: The full dataset is large (50,000 entries) and cannot be displayed 
          
 ## How to Use
 
-1. Clone the repository:
-```
-git clone https://github.com/Dhandapanikeerthana/Chennai-RealEstate-Data-Generator.git
 
-```
+- Clone the repository to your local machine.
 
-2. Open the project in PyCharm or any Python IDE.
+- Open the project in PyCharm or any Python IDE.
 
-3. Run the Python script (main.py) to generate the dataset.
-```
-python main.py
-```
-4. The output will be displayed in the console, and you can save it as a CSV file.
+- Run the Python script to generate the dataset.
 
-
+- The output will be displayed in the console, and you can save it as a CSV file.
 
 ## Tools Used 🛠️
 - **Python** 🐍
